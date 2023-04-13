@@ -3,9 +3,13 @@
 Creación de una aplicación sencilla de gestion de usuarios.
 
 Contenido:
+
 -API/REST con .NET
+
 -Swagger
+
 -Frontend
+
 -MySQL
 
 Del lado del front se utilizo html,css y javaScipt.
@@ -15,9 +19,13 @@ Vista del front:
 ![Captura de pantalla 1](https://user-images.githubusercontent.com/72325257/231625845-a1310de8-d641-48b5-a0e9-f9b02ec66d3a.png)
 
 Operaciones:
+
 -Ver listado de clientes
+
 -Agregar cliente
+
 -Editar cliente
+
 -Eliminar cliente
 
 Ejecución de la API:
